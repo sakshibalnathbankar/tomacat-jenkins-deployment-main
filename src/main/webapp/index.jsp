@@ -1,7 +1,7 @@
 <html>
 <body>
 <form action="Factorial.jsp">
-Enter a value for n: <input type="text" name="val">
+Enter a value: <input type="text" name="val">
 <input type="submit" value="Submit">
 </form>
 </body>
